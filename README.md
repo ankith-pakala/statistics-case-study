@@ -21,4 +21,4 @@ This project presents a statistical case study based on a crime analysis dashboa
 
 ## 📄 Full Report
 
-👉 [Click here to view the complete case study](./Crime%20Statistics%20Dashboard.pdf)
+👉 [View Complete Case Study](https://raw.githubusercontent.com/ankith-pakala/statistics-case-study/main/Crime_Statistics.pdf)
